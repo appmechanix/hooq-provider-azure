@@ -7,7 +7,7 @@ Installing
 ==========
 
 ```
-npm install hooq-azure-provider --save
+npm install hooq-provider-azure --save
 ```
 
 Example Usage
